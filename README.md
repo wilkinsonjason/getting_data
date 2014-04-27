@@ -1,4 +1,3 @@
-
 The script run_analysis.R will do the following:
 
 * will pull data for subject numbers from subject_test and subject_train
